@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ioana/Documents/FACULTATE/An_4/EIM/test_lab_2/PracticalTest02/app/src/main/res/layout/activity_practical_test02_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/ioana/Documents/FACULTATE/An_4/EIM/test_lab_2/PracticalTest022/app/src/main/res/layout/activity_practical_test02_main.xml" value="0.20697463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
